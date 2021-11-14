@@ -1,0 +1,6 @@
+[main]
+  color-tsharks = ["/bin/tshark"]
+  dark-mode = true
+  last-used-tshark = "/bin/tshark"
+  theme-truecolor = "nightowl"
+  validated-tsharks = ["/bin/tshark"]
