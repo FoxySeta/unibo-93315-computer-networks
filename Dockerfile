@@ -11,4 +11,4 @@ ENV TERM=xterm-truecolor
 
 WORKDIR /root
 COPY termshark .
-# CMD ["termshark"]
+# CMD termshark
