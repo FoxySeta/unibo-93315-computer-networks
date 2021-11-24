@@ -14,8 +14,8 @@ Open [Termshark](https://github.com/gcla/termshark) from the shell:
 ```bash
 $ termshark
 ```
-After exiting the shell, you can restart your `$NAME` container at any time
-with:
+`iptables` is also available. After exiting the shell, you can restart your
+`$NAME` container at any time with:
 ```bash
 $ docker start -ai $NAME
 ```
