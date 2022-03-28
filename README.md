@@ -4,7 +4,7 @@ Exercises for the University of Bologna Computer Networks course (a.y. 2021-22).
 ## Docker
 Pull the image from the registry:
 ```bash
-$ docker pull ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori:latest
+$ docker pull ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori:main
 ```
 Run a new instance of the shell in a new container named `$NAME`:
 ```bash
