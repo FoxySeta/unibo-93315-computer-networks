@@ -1,7 +1,7 @@
 #syntax=docker/dockerfile:1
 FROM alpine
 
-RUN echo https://dl-cdn.alpinelinux.org/alpine/edge/testing >> \
+RUN echo https://dl-cdn.alpinelinux.org/alpine/edge/community >> \
   /etc/apk/repositories
 RUN apk update && apk add termshark iptables
 
