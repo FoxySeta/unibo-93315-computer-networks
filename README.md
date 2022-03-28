@@ -8,7 +8,7 @@ $ docker pull ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori:main
 ```
 Run a new instance of the shell in a new container named `$NAME`:
 ```bash
-$ docker run -it --privileged --name $NAME ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori:latest
+$ docker run -it --privileged --name $NAME ghcr.io/foxyseta/unibo-93315-reti-di-calcolatori
 ```
 Open [Termshark](https://github.com/gcla/termshark) from the shell:
 ```bash
