@@ -1,4 +1,4 @@
-# unibo-93315-reti-di-calcolatori
+# unibo-93315-computer-networks
 
 Exercises for the University of Bologna Computer Networks course (a.y. 2021-22).
 
